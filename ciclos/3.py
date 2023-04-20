@@ -27,3 +27,4 @@ if len(Positivos) > 0:
     print(f"Promedio de números positivos: {(sum(Positivos)) / len(Positivos)}")
 else:
     print("No hay números positivos.")
+    
